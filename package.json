@@ -1,0 +1,10 @@
+{
+  "name": "fastify-swagger-refs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.18.1",
+    "fastify-swagger": "git+https://github.com/cq-fpietron/fastify-swagger.git#feat/accept-ref-in-headers"
+  }
+}
